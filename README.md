@@ -324,3 +324,10 @@ This project demonstrates a **production-style scalable web architecture on AWS*
 - traffic is balanced across servers
 - instances are automatically replaced if they fail
 - infrastructure can scale based on demand
+
+
+  ## Author
+
+Pankaj Sharma
+B.Tech CSE Student
+DevOps & Cloud Enthusiast
